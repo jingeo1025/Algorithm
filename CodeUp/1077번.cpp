@@ -1,0 +1,14 @@
+#include <iostream>
+
+int main() {
+
+  int i, a;
+
+  scanf("%d", &a);
+  for(i=0; i<=a; i++)
+    {
+      printf("%d\n", i);
+    }
+  
+  return 0;
+}
